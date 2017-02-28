@@ -11,3 +11,5 @@ url: http://osem.io
 title: Open Source Event Manager
 description: "Event management tailored for Free and Open Source community conferences."
 excerpt_separator: <!-- more -->
+
+theme: jekyll-theme-cayman
